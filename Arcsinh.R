@@ -1,8 +1,8 @@
-###########################################
-# Arcsinh Transformation Yale CyTOF files #
-# Event length - no transformation        #
-# DNA1 and DNA2 - linear transformation   #
-###########################################
+##########################################
+# Arcsinh Transformation for CyTOF files #
+# Event length - no transformation       #
+# DNA1 and DNA2 - linear transformation  #
+##########################################
 require("flowCore")
 library("gdata")
 library(ggplot2)
